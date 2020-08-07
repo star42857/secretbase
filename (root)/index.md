@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+嘿嘿嘿 
 
 You can use the [editor on GitHub](https://github.com/star42857/secretbase/edit/gh-pages/%20(root)/index.md) to maintain and preview the content for your website in Markdown files.
 
